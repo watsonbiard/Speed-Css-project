@@ -1,7 +1,8 @@
-// Author : Watson biard
-// Email  : w.biard1234@gmail.com
-// Date   : 07/02/2020 03:51pm
-// license: MIT
+// Author  : Watson biard
+// Email   : w.biard1234@gmail.com
+// InitDate: 07/02/2020 03:51pm
+// Date    : 07/02/2020 03:51pm
+// license : MIT
 
 
 // _______________javascript Code starts here__________________
